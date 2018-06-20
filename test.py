@@ -7,7 +7,7 @@ import scipy
 #import two mainly used
 
 
-#下面这个狗屎是用来记录你图片读取的文件夹的
+#下面这个是用来记录你图片读取的文件夹的
 filePath="jin"
 
 #right down is to def the function to open a file into image
